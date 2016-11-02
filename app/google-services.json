@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "784836908465",
+    "firebase_url": "https://olimpiadas-especiales.firebaseio.com",
+    "project_id": "olimpiadas-especiales",
+    "storage_bucket": "olimpiadas-especiales.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784836908465:android:45201c852a5aa7ba",
+        "android_client_info": {
+          "package_name": "mx.com.moonsmileh.olimpiadasespeciales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784836908465-vla6u4836f6v5oem86einrr0s3elp405.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvwYHBd7gBdAm8H7wnt8R5zUFn7orBxG8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
